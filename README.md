@@ -18,11 +18,11 @@ Single-file Python desktop tool for single-stock risk analysis, volatility-based
 
 ## Screenshots
 
-| Ticker Tab |
-| ![Ticker tab](docs/ticker-tab.png) |
-| Price, forecast band and volatility |
-| ![Price, forecast band and volatility](docs/market-chart.png) |
-| Hierarchical Risk Parity | Markowitz(Ledoit-Wolf method) maximum Sharpe |
+| Ticker Tab | Price, forecast band and volatility |
+|---|---|
+| ![Ticker tab](docs/ticker-tab.png) | ![Price, forecast band and volatility](docs/market-chart.png) |
+
+| Hierarchical Risk Parity | Markowitz (Ledoit-Wolf method) maximum Sharpe |
 |---|---|
 | ![HRP](docs/portfolio-hrp.png) | ![Markowitz](docs/portfolio-markowitz.png) |
 
