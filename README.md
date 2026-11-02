@@ -17,11 +17,11 @@ Single-file Python desktop tool for single-stock risk analysis, volatility-based
 - Choose **HRP** (Hierarchical Risk Parity) or **Markowitz** (long-only maximum Sharpe, Ledoit-Wolf covariance) from the dropdown. Features a weight chart and return-correlation heatmap for both. A more robust approch would be combining both by using Markowitz for the screening the top allocated stocks and passing them to HRP to adjust for risk.
 
 ## Screenshots
-|Ticker Tab|
-![Ticker tab](docs/ticker-tab.png)
-|Price, forecast band and volatility|
-![Price, forecast band and volatility](docs/market-chart.png)
 
+| Ticker Tab |
+| ![Ticker tab](docs/ticker-tab.png) |
+| Price, forecast band and volatility |
+| ![Price, forecast band and volatility](docs/market-chart.png) |
 | Hierarchical Risk Parity | Markowitz(Ledoit-Wolf method) maximum Sharpe |
 |---|---|
 | ![HRP](docs/portfolio-hrp.png) | ![Markowitz](docs/portfolio-markowitz.png) |
