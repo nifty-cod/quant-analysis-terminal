@@ -31,7 +31,7 @@ Single-file Python desktop tool for single-stock risk analysis, volatility-based
 Python 3.11+ and Tkinter are required 
 
 ```bash
-git clone https://github.com/Hanif-Wong/quant-analysis-terminal.git
+git clone https://github.com/nifty-cod/quant-analysis-terminal.git
 cd quant-analysis-terminal
 python -m venv .venv
 # Windows: .venv\Scripts\activate    |   macOS/Linux: source .venv/bin/activate
